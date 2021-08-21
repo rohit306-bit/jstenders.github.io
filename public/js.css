@@ -1,0 +1,14 @@
+@tailwind base;
+
+
+@tailwind components;
+
+#logo {
+    display: inline-block;
+    margin: 15px; 
+    float: left;
+    height: 60px;
+    width: auto; 
+    border-radius: 50%;
+
+@tailwind utilities;
